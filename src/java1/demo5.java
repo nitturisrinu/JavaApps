@@ -9,10 +9,7 @@ public class demo5 {
 		System.out.println("hiiiiiiii");
 		System.out.println("hiiiiiiii");
 		System.out.println("hiiiiiiii");
-		System.out.println("hiiiiiiii");
-		System.out.println("hiiiiiiii");
-		System.out.println("hiiiiiiii");
-		System.out.println("hiiiiiiii");
+	
 		
 	}
 }
