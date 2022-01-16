@@ -10,6 +10,14 @@ public class Demo6 {
 		System.out.println("hiiiiiiii");
 		System.out.println("hiiiiiiii");
 		System.out.println("h");
+		System.out.println("h");
+		
+		System.out.println("h");
+		
+		System.out.println("h");
+		
+		System.out.println("h");
+		
 	
 		
 	}
